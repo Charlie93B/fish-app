@@ -1,0 +1,14 @@
+.nav {
+
+    &__header {
+        
+        background-color: var(--nav-header);
+
+    }
+
+    &__link {
+
+        color: var(--nav-links);
+
+    }
+}
